@@ -12,3 +12,7 @@ img{
     display: block;
     margin: auto;
 }
+
+h2{
+    text-align: end;
+}
